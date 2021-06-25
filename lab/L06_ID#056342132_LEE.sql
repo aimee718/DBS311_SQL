@@ -33,7 +33,7 @@ END;
 /  
 EXECUTE FACTORIAL_TEST(10);
     
---2.	The company wants to calculate the employees’ annual salary:
+--2.	The company wants to calculate the employeesâ€™ annual salary:
 --The first year of employment, the amount of salary is the base salary which is $10,000.
 --Every year after that, the salary increases by 5%.
 --Write a stored procedure named calculate_salary which gets an employee ID and for that employee calculates the salary based 
