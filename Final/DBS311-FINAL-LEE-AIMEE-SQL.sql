@@ -1,6 +1,5 @@
 -- ***********************
 -- Name: Eun kyung (Aimee) Lee
--- ID: 056342132
 -- Date: 12-11-2020
 -- Purpose: Final Exam
 -- ***********************
